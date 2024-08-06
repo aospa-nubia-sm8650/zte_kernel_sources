@@ -1,4 +1,6 @@
 _platform_map = {
+    "anorak": {
+    },
     "autogvm": {
         "dtb_list": [
             # keep sorted
@@ -26,6 +28,8 @@ _platform_map = {
             {"name": "sa8195-vm-la-overlay.dtbo"},
             {"name": "monaco-vm-la-overlay.dtbo"},
         ],
+    },
+    "autoghgvm": {
     },
     "gen3auto": {
         "dtb_list": [
@@ -167,6 +171,8 @@ _platform_map = {
                 "name": "niobe-rumi-overlay.dtbo",
             },
         ],
+    },
+    "niobe-tuivm": {
     },
     "cliffs": {
         "dtb_list": [
